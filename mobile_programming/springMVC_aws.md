@@ -35,7 +35,7 @@ public class AWSController {
 ```
 
 ### data.html
-'''html
+```html
 <html lang="ko">
     <body>
         <h2> AWS API에 연결되었습니다! </h2>
@@ -67,4 +67,4 @@ public class AWSController {
         }
     </script>
 </html>
-'''
+```
